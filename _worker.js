@@ -972,7 +972,7 @@ function getLoginPage(url, baseUrl, showError = false) {
         </form>
         
         <div class="footer">
-            <p>Powered by eooce <a href="https://t.me/eooceu" target="_blank" style="color: #007bff; text-decoration: none;">Join Telegram group</a></p>
+            <p>Powered by oldwang <a href="https://t.me/+0OmUUasjwAE2NDY0" target="_blank" style="color: #007bff; text-decoration: none;">Join Telegram group</a></p>
         </div>
     </div>
     
@@ -1402,9 +1402,9 @@ function getMainPageContent(url, baseUrl) {
                     <span>✅</span>
                     <span>Proxyip 检测服务</span>
                 </a>
-                <a href="https://t.me/eooceu" target="_blank" class="footer-link">
+                <a href="https://t.me/+0OmUUasjwAE2NDY0" target="_blank" class="footer-link">
                     <span>📱</span>
-                    <span>Telegram 反馈交流群</span>
+                    <span>Telegram 订阅交流群</span>
                 </a>
             </div>
         </div>
